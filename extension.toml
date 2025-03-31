@@ -3,5 +3,5 @@ name = "Anysphere Theme"
 version = "0.0.1"
 schema_version = 1
 authors = ["stpn48 <stepanbroz789@gmail.com>"]
-description = "Unofficial Anysphere theme based on the theme from Cursor editor for Zed editor."
+description = "Unofficial Anysphere theme based on the theme from Cursor editor."
 repository = "https://github.com/stpn48/anysphere-zed-theme"
